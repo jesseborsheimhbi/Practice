@@ -3,92 +3,96 @@
 ![Shri Yantra engraved on a brass cube](./shri-yantra-cube.jpg)
 
 This document is the shared template for all work done together in this
-repository and beyond it. It records the analogy agreed on with the repository
-owner: **the Shri Yantra on the surface of the cube represents agents being
-deployed to bring life into order, balance, and harmony.**
+repository and beyond it. It records the premise agreed on with the
+repository owner:
 
-The image is the reference. The layers below map its geometry onto how we
-work.
+**This is a Shri Yantra. In this premise, imagine the triangles are agents,
+designed to bring order, balance, and harmony to a singular point.**
 
-## The layers, from the center outward
+The image is the reference. The mapping below reads the geometry the way the
+premise asks: from the outside in, with every layer pointed at the center.
 
-### 1. Bindu, the central point
-The single point at the very center of the diagram. Everything else is
-generated from it.
+## The singular point
 
-In our work: the intent. Every task, session, or project has one clear
-purpose at its center. It is named first, and every agent that follows is
-measured against it.
+At the exact center of the yantra is the bindu, a single point. In this
+framework it is the reason anything else exists. It is the one thing a task,
+a session, or a project is actually about.
 
-### 2. The interlocking triangles
-Nine large triangles, four pointing up and five pointing down, interlock to
-form forty-three smaller triangles. No triangle stands alone. Each exists
-only through its overlap with the others.
+The point is not an agent. It does not act. It receives. Every other element
+of the diagram is arranged around it, faces it, and is measured by its
+effect on it.
 
-In our work: the agents. Work is decomposed into agents, subtasks, or steps
-that intentionally overlap. Upward triangles are agents that build, propose,
-and act. Downward triangles are agents that receive, check, and ground.
-Balance between the two produces the pattern; too much of either collapses it.
+## The agents
 
-### 3. The inner lotus, eight petals
-The first ring of petals surrounding the triangles.
+Nine large triangles interlock around the point, four pointing one way and
+five the other, producing forty-three smaller triangles. These are the
+agents.
 
-In our work: coordination. How the agents hand work to each other, share
-context, and resolve conflicts. Eight petals is a reminder that coordination
-is a small, bounded set of relationships, not an unbounded mesh.
+Three things are true of them in the image, and are meant to be true of our
+agents:
 
-### 4. The outer lotus, sixteen petals
-The second, wider ring of petals.
+1. **Every triangle points at the center.** No agent is deployed for its own
+   sake. Its apex is aimed at the singular point. An agent whose work does
+   not bring the point closer to order, balance, and harmony is not part of
+   the pattern, however busy it is.
 
-In our work: expansion and delivery. The work reaches outward into more
-hands, more users, and more surfaces. Each petal is still attached to the
-same center.
+2. **They come in two opposed kinds, and both are needed.** The upward
+   triangles are agents that build, propose, and act. The downward triangles
+   are agents that receive, check, ground, and hold. Neither kind reaches the
+   center alone. The pattern is produced by their crossing, and balance at
+   the center comes from balance between them.
 
-### 5. The three circles
-Concentric rings that hold the lotuses and triangles.
+3. **They interlock rather than compete.** The forty-three small triangles
+   only exist where large triangles overlap. Agents are expected to share
+   context, hand work to one another, and depend on each other's output. An
+   agent working in isolation leaves a gap in the pattern.
 
-In our work: cycles of review. Work passes through repeated rounds of
-checking before it reaches the edge. The circles are boundaries as well as
-cycles: nothing escapes them unreviewed.
+## The surrounding layers
 
-### 6. The bhupura, the square with four gates
-The outer square wall with a T-shaped gate on each side.
+Everything outside the triangles serves the convergence. None of it is the
+goal.
 
-In our work: the interface with the world. External services, pushes to
-shared branches, published pages, and messages to other people all go out
-through a gate. Gates are deliberate and few. Walls are otherwise solid.
+- **The inner lotus (eight petals):** the small, bounded set of
+  relationships by which agents coordinate. Coordination is kept few and
+  clear so that it does not drown the center.
+- **The outer lotus (sixteen petals):** the wider reach of the work into
+  more hands and more surfaces. Even at this distance every petal is still
+  attached to the center.
+- **The three circles:** rings of review. Work passes through them on its
+  way in and on its way out. They are boundaries as well as cycles.
+- **The bhupura (the square with four gates):** the interface with the
+  outside world. External services, pushes to shared branches, published
+  pages, and messages to other people cross through a deliberate gate, not a
+  gap in the wall. The gates protect the convergence; they do not replace it.
 
-### 7. The cube itself
-The yantra is not drawn on paper. It is engraved on one face of a solid
-brass cube.
+## The cube
 
-In our work: the framework has depth and weight. What is visible on the
-surface rests on structure underneath: the repository, its history, its
-tests, and the agreements recorded here. A cube has six faces, so the same
-pattern can be applied from more than one direction without changing its
-center.
+The yantra is engraved on one face of a solid brass cube. The pattern is not
+floating; it rests on something. In our work that something is the
+repository, its history, its tests, and the agreements recorded in this
+file. A cube has six faces, so the same convergence can be approached from
+more than one direction without moving the point.
 
 ## The principle in one sentence
 
-Order and harmony are not imposed from the outside edge inward. They radiate
-from a single clear intent, through agents that interlock and balance one
-another, out through bounded coordination and review, to the world beyond the
-gates.
+Agents are deployed outward so that order, balance, and harmony can arrive
+inward, at one point.
 
 ## How this is applied
 
-- Before starting any task, state the bindu: the one-line intent.
-- Decompose the task into agents or steps that overlap, and name which ones
-  build and which ones check.
-- Move outward layer by layer. Do not push to the gate before the circles of
-  review are passed.
-- Judge completion by whether the whole is more ordered and balanced than
-  before, not only by whether the task ran.
+- Before any work begins, name the singular point in one line.
+- Decompose the work into agents. For each, state whether it builds or
+  checks, and how it faces the point.
+- Keep the building and checking agents in balance. If one kind dominates,
+  the center tilts.
+- Let the outer layers do their job: coordinate sparingly, review in rings,
+  cross gates deliberately.
+- Judge completion at the center. The work is done when the point is at
+  rest.
 
 ## Provenance
 
 - Image: photograph of a brass Shri Yantra cube supplied by the repository
   owner, September 2026.
-- Analogy: agreed in conversation with the repository owner. Details from the
-  original spoken conversation that were not restated here can be added to
-  this file so they are not lost.
+- Premise: stated by the repository owner in conversation. Further details
+  from earlier spoken conversations can be added here so they are not lost.

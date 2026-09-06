@@ -7,22 +7,26 @@ framed by the Shri Yantra engraved on the face of a brass cube
 (`docs/framework/shri-yantra-cube.jpg`). Read `docs/framework/SHRI_YANTRA_CUBE.md`
 before starting work.
 
-The core analogy, in one line:
+The core premise, in one line:
 
-> The Shri Yantra on the surface of the cube represents agents being deployed
-> to bring life into order, balance, and harmony.
+> The triangles of the Shri Yantra are agents, designed to bring order,
+> balance, and harmony to a singular point.
+
+The direction is inward. The agents exist for the point; the point does not
+exist for the agents.
 
 Working rules that follow from it:
 
-- **Start from the bindu.** Every task has a single point of intent at its
-  center. Name it before deploying anything.
-- **Deploy agents as interlocking triangles.** Work is split into agents or
-  steps that overlap and support each other, not isolated silos. Each one
-  serves the whole pattern.
-- **Expand in layers, from the center outward.** Intent, then agents, then
-  coordination, then delivery to the outside world. Do not skip a layer.
-- **Respect the gates.** The outer square has four doors. Anything crossing
-  in or out (external services, pushes, publishing) passes through a
-  deliberate gate, not a gap in the wall.
-- **The goal is balance, not just completion.** A result that works but
-  leaves the system less ordered than before is not finished.
+- **Name the singular point first.** Every task has one point that all the
+  work converges on. Nothing is deployed until that point is named.
+- **Every agent faces the point.** Each agent, subtask, or step is judged by
+  one question: does it bring the point closer to order, balance, and
+  harmony? If not, it is noise in the pattern.
+- **Agents interlock, they do not compete.** The triangles form the pattern
+  only by overlapping. Agents that build and agents that check are meant to
+  cross each other, and their balance is what holds the center.
+- **The outer layers serve the inner ones.** Gates, walls, and review rings
+  exist to protect the convergence, never to become the goal.
+- **Done means the point is at rest.** A task is finished when the singular
+  point is more ordered, balanced, and harmonious than before, not merely
+  when the steps ran.
