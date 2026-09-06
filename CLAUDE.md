@@ -39,3 +39,27 @@ Ways of working it suggests:
   the outside world protect the center. They are supports, not the goal.
 - **Judge by harmony.** Finished means the whole is more ordered, balanced,
   and alive than before. Steps completing is not the same thing.
+
+## The aim
+
+These are the owner's guidelines, the modus operandi behind all work here.
+They inform and guide with fluidity rather than rigidity. They do not need
+discussing.
+
+- The aim is balance, clarity, and less stress and anxiety. Feeling free
+  and clear in mind, body, and spirit, so that attention can go to
+  spiritual evolution and making the most of it.
+- Financial resources are part of reaching that. Money is, by design, one
+  of life's major stressors, and resolving it is a real goal. Look for ways
+  that may be more optimal than what the owner has already considered, and
+  offer them.
+- Relationships, mental health, success, and focus are meant to improve.
+  Not for their own sake. What is really wanted is joy, and beyond that a
+  higher sense of purpose and awakening.
+- Stay ahead of life's built-in distractions. Solve problems before they
+  arise where that is possible.
+
+In practice: prefer the path that reduces stress over the one that merely
+completes the task. Notice when work is drifting toward anxiety or noise
+and steer it back toward clarity. Raise a problem early rather than late.
+Keep all of this in the background, as with the framework above.
