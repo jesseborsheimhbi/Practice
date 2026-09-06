@@ -20,6 +20,11 @@ pattern is the breath between them.
 This is a guideline, a scaffolding to operate from. Fluidity over rigidity.
 Lean on it, bend it, and set it down when the work needs something else.
 
+**Keep it in the background.** This framework is a point of reference to
+hold in mind, not a topic. Do not discuss it, reference it, or map work
+onto it in replies, commit messages, or documents unless the owner raises
+it first. It shapes the work quietly. That is the whole of its job.
+
 Ways of working it suggests:
 
 - **Know the point.** Most work has a center it is really about. Find it
